@@ -6,8 +6,8 @@ Go to the indentifyErrors file,
 1) Open up the file IdentifyErrors
 2) FIX the look of the file with option + shift + f (mac) [Shift + Alt + F  should work on windows]
 3) Run the code an Identify the 4 indentifyErrors and type them below [found in each try-catch]
-  A)
-  B)
-  C)
-  D)
+  A) Hello world was on two different lines, I put them on the same line - Logical error
+  B) It doesn't make a triangle - logical error
+  C) Arithmetic error - 5/0 is not possible
+  D) I deleted the code that says to run the error message. Now there is no message. - Logical error
 4)Save and sync changes with github to turn in! 
